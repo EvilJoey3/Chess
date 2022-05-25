@@ -1,0 +1,21 @@
+0
+BLACK king 4 7
+BLACK queen 6 0
+BLACK pawn 5 3
+BLACK pawn 6 3
+WHITE rook 2 1
+BLACK rook 6 1
+WHITE king 4 1
+BLACK bishop 2 3
+BLACK pawn 1 2
+-1 -1 -1 -1 pre
+1
+BLACK king 4 7
+BLACK queen 6 0
+BLACK pawn 5 3
+BLACK pawn 6 3
+BLACK rook 6 1
+WHITE king 4 1
+BLACK bishop 2 3
+BLACK pawn 2 1
+1 2 2 1 pre

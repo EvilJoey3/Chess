@@ -1,0 +1,14 @@
+0
+BLACK king 0 3
+WHITE bishop 2 0
+WHITE king 4 0
+WHITE rook 3 4
+WHITE rook 4 2
+-1 -1 -1 -1 pre
+1
+BLACK king 0 3
+WHITE bishop 3 1
+WHITE king 4 0
+WHITE rook 3 4
+WHITE rook 4 2
+2 0 3 1 pre
